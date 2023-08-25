@@ -1,0 +1,1 @@
+--authentication-address http://127.0.0.1:5000 --jwt-secret SO_SECRET_EVEN_I_DONT_KNOW_IT --roles-field role --customer-role customer --warehouse-role manager --administrator-role admin --with-authentication --customer-address http://127.0.0.1:5001 --warehouse-address http://127.0.0.1:5002 --administrator-address http://127.0.0.1:5003 --type all
